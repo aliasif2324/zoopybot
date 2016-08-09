@@ -1,0 +1,1 @@
+curl -X POST "https://graph.facebook.com/v2.6/me/subscribed_apps?access_token=CAAY2ZBXXVpo4BADoFmXjPSGU9jO1t3uZAVZBeEaaJNzWp9objuG1jLekxtZAa2TH9igIsLk1Y2Pf1ZBCZB5ki3SUwIRBYXw2lAu3IYEVwTtWGmLgC54KpPBmFOwN4fHHejepYexkS6JaZBFZBO4mg7TJUZBatUAsZA8SaVKhTnuXVuUdfLURE4Ve3leiZCqQPktLkcZD"
